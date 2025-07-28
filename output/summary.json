@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "documents": [
+      "Assignment 1.pdf",
+      "Project Selection.pdf"
+    ],
+    "persona": "MBA Student with a minor in Computer Science",
+    "job_to_be_done": "Prepare a comparative study between logic-based reasoning methods in discrete mathematics and practical project evaluation models in business decision-making",
+    "timestamp": "2025-07-28T14:13:55.953218"
+  },
+  "extracted_sections": [
+    {
+      "document": "Assignment 1.pdf",
+      "page": 2,
+      "section_title": "                     p q q p iv q p q p iii p q p ",
+      "importance_rank": 1
+    },
+    {
+      "document": "Assignment 1.pdf",
+      "page": 1,
+      "section_title": "Assignment1 (Logic, Propositional functions & quan",
+      "importance_rank": 2
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 3,
+      "section_title": "Overview of PS Process • Project Management Office",
+      "importance_rank": 3
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 15,
+      "section_title": "Numeric PS Models: Profit / Profitability • Paybac",
+      "importance_rank": 4
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 21,
+      "section_title": "Risk Considerations in Project Selection • Both co",
+      "importance_rank": 5
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 2,
+      "section_title": "Types of Companies • Companies considering project",
+      "importance_rank": 6
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 4,
+      "section_title": "Criteria for Project Selection  Models • Realism (",
+      "importance_rank": 7
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 7,
+      "section_title": "PS Models: Methodology • Start with detailed list ",
+      "importance_rank": 8
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 5,
+      "section_title": "The Nature of Project Selection Models • Models tu",
+      "importance_rank": 9
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 23,
+      "section_title": "Symptoms of a Misaligned  Portfolio • More project",
+      "importance_rank": 10
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 8,
+      "section_title": "Project Evaluation Factors  (PEFs) • Production Fa",
+      "importance_rank": 11
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 11,
+      "section_title": "Financial Factors • Profitability , NPV of the inv",
+      "importance_rank": 12
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 9,
+      "section_title": "Production factors • Installation time • Learning ",
+      "importance_rank": 13
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 12,
+      "section_title": "Admn. And Misc. • Safety stds. • Environmental std",
+      "importance_rank": 14
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 22,
+      "section_title": "The Project Portfolio Process  (PPP) • Links proje",
+      "importance_rank": 15
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 14,
+      "section_title": "Numeric PS Models: Profit / Profitability • Paybac",
+      "importance_rank": 16
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 20,
+      "section_title": "Choosing the PS Model • Dependent on wishes and ph",
+      "importance_rank": 17
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 6,
+      "section_title": "Nature of PS models: Caveats • Project decisions a",
+      "importance_rank": 18
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 10,
+      "section_title": "Marketing factors • Size of potential market • Pro",
+      "importance_rank": 19
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 16,
+      "section_title": "Numeric PS Models: Scoring • Unweighted 0-1  Facto",
+      "importance_rank": 20
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 24,
+      "section_title": "Purpose of Project Portfolio Process • Identify no",
+      "importance_rank": 21
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 13,
+      "section_title": "Types of PS Models: Nonnumeric • Sacred Cow • Oper",
+      "importance_rank": 22
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 18,
+      "section_title": "Unweighted Factor Scoring Model criteria scale pro",
+      "importance_rank": 23
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 19,
+      "section_title": "Weighted Factor Scoring Model criteria weight proj",
+      "importance_rank": 24
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 17,
+      "section_title": "Unweighted 0-1 Factor Model criteria proj1 proj2 a",
+      "importance_rank": 25
+    },
+    {
+      "document": "Assignment 1.pdf",
+      "page": 3,
+      "section_title": ". ,   prime.   is   , odd   is   , ) ( 7 3 , ) ( x",
+      "importance_rank": 26
+    },
+    {
+      "document": "Project Selection.pdf",
+      "page": 1,
+      "section_title": "Project Selection ",
+      "importance_rank": 27
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Assignment 1.pdf",
+      "refined_text": "Assignment1 (Logic, Propositional functions & quantifiers) \n \n      1.  (a) Which of the following sentences are propositions: \n                          (i)  Is this true? \n                          (ii)  \n}\n7,6,1\n{\n5\n \n                          (iii) Answer this question. \n                          (iv) 5 + 6 = 12 \n                           (v) Four is even. \n            (b) What is the negation of:                          (c) Determine the truth value of the following: \n              \n(i) Today is Tuesday. \n \n \n       (i)  6 + 2 =7  or  4 + 4 = 8 \n         \n \n(ii) 5 + 1 = 6.                                                    (ii) 3 +1 = 4 and 5 + 4 = 7 \n         \n \n(iii) No one wants to buy my house. \n        (iii) 4 + 3 = 7 and  6 + 2 = 8 \n         \n \n(iv) Some students have no mobile phone.      (iv) If 3 * 5 = 24 then 3 + 5 = 8 \n         \n \n(v) Every even integer greater than 4 is the sum   (v) If 3 * 5 = 15 then  3 + 5 =12 \n               \n \nof two primes. \n     2.  Consider ",
+      "page": 1
+    },
+    {
+      "document": "Assignment 1.pdf",
+      "refined_text": "                    \np\nq\nq\np\niv\nq\np\nq\np\niii\np\nq\np\np\nii\nr\nq\nr\np\nr\nq\np\ni\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\n()\n(\n \n       8. State the converse, inverse and contrapositive of the following: \n                          (i) If today is Easter then tomorrow is Monday \n \n \n(ii) If John is a poet then he is poor. \n \n \n(iii) If triangle ABC is right angled then  \n2\n2\n2\nAC\nBC\nAB\n\n\n \n \n \n(iv) If P is a square then P is a rectangle. \n \n \n(v) If a triangle is not isosceles then it is not equilateral. \n \n \n(vii) If the square of an odd integer is odd then that number is odd. \n      9. Write the negation of each statement as simply as possible. \n \n \n(i) If she works, she will earn money. \n \n \n(ii)  He swims if and only if the water is warm \n \n \n(iii) If it snows, then they do not drive the car. \n      10. Determine the validity of the following arguments. \n \n                       \np\nr\nq\nr\nq\np\niii\nr\nq\nr\nq\nq\np\nii\nr\np\nq\nr\nq\np\ni\n~\n,\n,\n~\n)\n(\n~\n,\n~\n),\n~\n()\n(\n~\n~\n,\n)\n",
+      "page": 2
+    },
+    {
+      "document": "Assignment 1.pdf",
+      "refined_text": ".\n,\n \nprime.\n \nis\n \n,\nodd\n \nis\n \n,\n)\n(\n7\n3\n,\n)\n(\nx\nx\nx\n(iv)\nx\nx\n(iii)\nx\nx\nii\nx\nx\ni\n\n\n\n\n\n\n\n \n19. Negate the statement\n))\n(\n~\n)\n(\n(\nx\nq\nx\np\ny\nx\n\n\n\n. \n \n",
+      "page": 3
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Project Selection\n",
+      "page": 1
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Types of Companies\n•\nCompanies considering projects fall into two \nbroad categories:\n–\nCompanies whose core business is completing \nprojects\n2-2\n–\nCompanies whose core business is something else\n•\nThey can also be broken down as:\n–\nCompanies looking at projects to do for others\n–\nCompanies looking at projects to do for themselves\n",
+      "page": 2
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Overview of PS Process\n• Project Management Office (PMO):\nAligning corporate needs and project goals\n• Project selection: Choose candidate \nprojects using evaluation criteria\n• Dealing with uncertainty: Risk analysis\n• Strategically selecting best projects:\nProject Portfolio Process (PPP)\n• Locking up the deal: Writing a project \nproposal\n",
+      "page": 3
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Criteria for Project Selection \nModels\n• Realism (technical-, resource-, market-risk)\n• Capability (adequately sophisticated)\n• Flexibility (valid results over large domain)\n• Ease of Use (no expert needed to run model)\n• Cost (much less than project benefit)\n• Easy Computerization (use standard software)\n",
+      "page": 4
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "The Nature of Project Selection Models\n• Models turn inputs into outputs\n• Managers decide on the values for the inputs \nand evaluate the outputs\n• The inputs never fully describe the situation\n2-5\n• The outputs never fully describe the expected \nresults\n• Models are tools\n• Managers are the decision makers\n",
+      "page": 5
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Nature of PS models:\nCaveats\n• Project decisions are made by PM ---\nNOT by PS model!\n• A PS model APPROXIMATES, but \ndoes NOT DUPLICATE reality!\n",
+      "page": 6
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "PS Models:\nMethodology\n• Start with detailed list of firm’s goals\n• Create list of project evaluation factors \n(PEF’s)\n• Weigh every element in PEF list\n• Weigh every element in PEF list\n• Compute an overall score for project \nbased on weighted PEF’s\n• Select project that has the closest \nalignment with firm’s goals\n",
+      "page": 7
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Project Evaluation Factors \n(PEFs)\n• Production Factors\n• Marketing Factors\n• Financial Factors\n• Personnel Factors\n• Administrative and Misc. Factors\n",
+      "page": 8
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Production factors\n• Installation time\n• Learning curve\n• Effects of waste and rejects\n• Safety\n• Other applications etc\n• Effects of\n• Changes in cost of inputs\n• Availability of input etc.\n",
+      "page": 9
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Marketing factors\n• Size of potential market\n• Probable mkt share\n• Time until mkt share is acquired\n• Impact on current product line\n• Life cycle of output etc.\n",
+      "page": 10
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Financial Factors\n• Profitability , NPV of the investment\n• Impact of cash flows\n• Payout period\n• Cash requirements\n• Cash requirements\n• Time until breakeven\n• Size of investment required\n• Impact on seasonal and cyclical \nfluctuations.\n",
+      "page": 11
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Admn. And Misc.\n• Safety stds.\n• Environmental stds.\n• Reaction of stockholders\n• Patent and trade secret\n• Image in mkt\n• Managerial capacity to direct and control \nnew process.\n",
+      "page": 12
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Types of PS Models:\nNonnumeric\n• Sacred Cow\n• Operating Necessity\nC\ntiti\nN\nit\n• Competitive Necessity\n• Product Line Extension\n• Comparative Benefit Model\n",
+      "page": 13
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Numeric PS Models:\nProfit / Profitability\n• Payback Period (PB)\n• Average Rate of Return\n• Discounted Cash Flow (NPV)\n(\n)\n• Internal Rate of Return\n• Profitability Index\n• Other Profitability Models\n",
+      "page": 14
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Numeric PS Models:\nProfit / Profitability\n• Payback Period (PB)( recovery of initial fixed \ninvestment)\n• Average Rate of Return ( ratio of avg annual profit to \nthe initial investment)\n• Discounted Cash Flow (NPV) NPV of all \n(\n)\ncashflows after discounting them by required rate of \nreturn\n• Internal Rate of Return\n• Profitability Index – NPV of all cashflows divided \nby initial cash investment\n• Other Profitability Models\n",
+      "page": 15
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Numeric PS Models:\nScoring\n• Unweighted 0-1 \nFactor Model\n• Unweighted Factor \nScoring Model\n• S = ∑(x)\n• S = ∑(s)\n• Weighted Factor \nScoring Model\n• Constrained \nWeighted Factor \nScoring Model\n• S = ∑(s·w)\n• S = ∑(s·w) ∏(c)\n",
+      "page": 16
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Unweighted 0-1 Factor Model\ncriteria\nproj1\nproj2\na\ny\nn\nb\nn\nn\nc\ny\ny\nd\ny\ny\ne\ny\ny\nttl\n4\n3\n",
+      "page": 17
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Unweighted Factor Scoring Model\ncriteria\nscale\nproj1\nproj2\na\n1 - 5\n1\n2\nb\n1 - 5\n2\n3\nc\n1 - 5\n5\n4\nd\n1 - 5\n5\n4\ne\n1 - 5\n1\n4\nttl\n14\n17\n",
+      "page": 18
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Weighted Factor Scoring Model\ncriteria\nweight\nproj1\nproj2\na\n2\n1\n2\nb\n1\n2\n3\nc\n5\n5\n4\nd\n4\n5\n4\ne\n3\n1\n4\nttl\n52\n53\n",
+      "page": 19
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Choosing the PS Model\n• Dependent on wishes and philosophy \nof management\n• 80% of Fortune 500 firms choose \n“nonnumeric” PS models\nnonnumeric  PS models\n• Firms with outside funding often \nchoose scoring PS models\n• Firms without outside funding often \nchoose profit / profitability PS models\n",
+      "page": 20
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Risk Considerations in Project Selection\n• Both costs and benefits are uncertain\n– Benefits are more uncertain\n• There are many ways of dealing with risk\n• Can make estimates about the probability of \noutcomes\n2-21\noutcomes\n– Subjective probabilities\n• Uncertainty about:\n– Timing\n– What will be accomplished?\n– Side effects\n• Pro forma documents\n",
+      "page": 21
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "The Project Portfolio Process \n(PPP)\n• Links projects directly to the goals and \nstrategy of the organization\n• Means for monitoring and controlling \nprojects\n2-22\nprojects \n",
+      "page": 22
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Symptoms of a Misaligned \nPortfolio\n•\nMore projects\n•\nInconsistent determination of benefits\n•\nProjects that don’t contribute to the \nt\nt\n2-23\nstrategy\n•\nCompeting projects\n•\nCosts exceed benefits\n•\nNo risk analysis of projects\n•\nLack of tracking against the plan\n•\nNo client for project\n",
+      "page": 23
+    },
+    {
+      "document": "Project Selection.pdf",
+      "refined_text": "Purpose of Project Portfolio Process\n• Identify nonprojects\n• Prioritize list of projects\n• Limit number of projects\n2-24\n• Identify the real options for each project\n• Identify projects with good fit\n• Identify co-dependent projects\n",
+      "page": 24
+    }
+  ]
+}
